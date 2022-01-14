@@ -1,0 +1,15 @@
+{
+  "name": "test-logico-matic",
+  "version": "1.0.0",
+  "description": "Respuestas de la prueba lógica para Matic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Angel Suárez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
