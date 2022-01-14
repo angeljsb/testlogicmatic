@@ -1,14 +1,14 @@
 # testlogicmatic
 Test Logic Angel Suarez
 
-First 
+-First 
 
 npm install
 
-Run the application console
+-Run the application console
 
 npm run start
 
-Run the test in Jest
+-Run the test in Jest
 
 npm run test
